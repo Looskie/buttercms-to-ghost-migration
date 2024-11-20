@@ -1,0 +1,6 @@
+node_modules
+
+# Application files
+export.json
+posts.json
+users.json
